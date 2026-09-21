@@ -72,4 +72,5 @@ button_compare.pack()
 label_compare_result = tk.Label(window, text="", font=("Verdana", 13), bg="#EDF3BA")
 label_compare_result.pack()
 
+
 window.mainloop()
